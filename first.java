@@ -17,6 +17,6 @@ public static void main(String a[]){
  System.out.println("the value of cpunt is : "+fst.count);
  System.out.println("constructor is called first followed by other methods");
  System.out.println("summation value is : " + fst.sum(3,4);
- 
+ System.out.println("static count value is : "+ initialCount());
 }
 }
