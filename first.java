@@ -6,6 +6,11 @@ class first{
  private int sum(int a, int b){
   return a+b;
  }
+ 
+ private static int initailCount(){
+  static int z=20;
+  return z;
+ }
 public static void main(String a[]){
   System.out.println("this is a simple program in java");
  First fst=new First();
