@@ -9,5 +9,6 @@ public static void main(String a[]){
 		System.out.println("inside SOP of mian");
 		Sample sam=new Sample();
 		System.out.println("the value of count is "+ count);
+		System.out.println("SimpeOut is "+SimpleOut());
 	}
 }
