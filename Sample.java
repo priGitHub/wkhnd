@@ -10,5 +10,6 @@ public static void main(String a[]){
 		Sample sam=new Sample();
 		System.out.println("the value of count is "+ count);
 		System.out.println("SimpeOut is "+SimpleOut());
+		System.out.println("additional line added");
 	}
 }
